@@ -1,0 +1,10 @@
+/public/images/post-images
+/public/sitemap.xml
+/public/robots.txt
+/public/.htaccess
+/public/search-engines-ping.log
+/vendor
+/node_modules
+Homestead.yaml
+Homestead.json
+.env
